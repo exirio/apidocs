@@ -1,6 +1,6 @@
-# HollaEx API Documentation
+# EXIR API Documentation
 
-HollaEx API allows users to interact with HollaEx through RESTful API using any programming language.
+EXIR API allows users to interact with EXIR through RESTful API using any programming language.
 
 ### Prerequisites
 
